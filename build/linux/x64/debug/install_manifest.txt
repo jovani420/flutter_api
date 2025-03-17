@@ -1,0 +1,13 @@
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/flutter_api
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/lenovo/Documentos/flutter/flutter_api/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
